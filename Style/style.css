@@ -5,14 +5,14 @@ body{
 
 @font-face {
     font-family: 'Colfax-Light';
-    src: url('/Fonts/Colfax-Light.otf') format('opentype');
+    src: url('../Fonts/Colfax-Light.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Colfax-Bold';
-    src: url('/Fonts/Colfax-Bold.otf') format('opentype');
+    src: url('../Fonts/Colfax-Bold.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
